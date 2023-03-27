@@ -4,12 +4,22 @@ http://181.78.24.67:8010/play/a05w/index.m3u8
 #EXTINF:-1 group-title="⚽DEPORTES⚽" tvg-logo="https://i.postimg.cc/qvDzY44D/WIN-SPORTS-BOTON-AZUL.png",⚽| WIN SPORTS HD
 http://181.78.12.119:16123/play/a041/index.m3u8
 #EXTINF:-1 group-title="PERU *" tvg-logo="https://i.postimg.cc/BQrnMgZb/Mosca-Latina.jpg",LATINA TV PERU HD
+http://hplay.xyz:80/LVH60Ml8Hc/O4XSkHm6Yj/304297
+#EXTINF:-1 group-title="PERU *" tvg-logo="https://i.postimg.cc/BQrnMgZb/Mosca-Latina.jpg",LATINA TV PERU HD
+http://hplay.xyz:80/LVH60Ml8Hc/O4XSkHm6Yj/304298
+#EXTINF:-1 group-title="PERU *" tvg-logo="https://i.postimg.cc/BQrnMgZb/Mosca-Latina.jpg",LATINA TV PERU SD
 http://181.39.202.98:9993/play/a17y/index.m3u8
 #EXTINF:-1 group-title="PERU *" tvg-logo="https://i.postimg.cc/BQrnMgZb/Mosca-Latina.jpg",LATINA TV PERU HD
 http://200.119.222.198:25470/play/a01b/index.m3u8
+#EXTINF:-1 group-title="PERU *" tvg-logo="https://i.postimg.cc/6ppvxzJ0/image.png",AMERICA TV PY SD
+http://190.217.20.100:10800/play/a02f/index.m3u8
+#EXTINF:-1 group-title="PERU *" tvg-logo="https://i.postimg.cc/6ppvxzJ0/image.png",AMERICA TV PERU SD
+http://hplay.xyz:80/LVH60Ml8Hc/O4XSkHm6Yj/304291
+#EXTINF:-1 group-title="PERU *" tvg-logo="https://i.postimg.cc/6ppvxzJ0/image.png",AMERICA TV PERU HD
+http://hplay.xyz:80/LVH60Ml8Hc/O4XSkHm6Yj/304290
 #EXTINF:-1 group-title="PERU *" tvg-logo="https://i.postimg.cc/rFJMJ9ny/AMERICA-BLANCIO.png",AMERICA TV PERU HD
 http://181.39.202.98:9993/play/a17x/index.m3u8
-#EXTINF:-1 group-title="PERU *" tvg-logo="https://i.postimg.cc/6ppvxzJ0/image.png",AMERICA TV PERU HD
+#EXTINF:-1 group-title="PERU *" tvg-logo="https://i.postimg.cc/rFJMJ9ny/AMERICA-BLANCIO.png",AMERICA TV PERU HD
 http://200.119.222.198:25470/play/a01a/index.m3u8
 #EXTINF:-1 group-title="PREMIUM" tvg-logo="https://i.postimg.cc/C5Yyth5C/CINE_PREMIUM.png",CINE PREMIUM
 http://181.78.12.119:16123/play/ch49/index.m3u8
