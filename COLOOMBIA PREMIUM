@@ -1,32 +1,38 @@
 #EXTM3U
-#EXTINF:-1 group-title="⚽DEPORTES⚽" tvg-logo="https://i.postimg.cc/1XkcFmx7/WIN-SPORTS-BOTON-AZUL-ESP.png",⚽| WIN SPORTS HD
-http://181.78.24.67:8010/play/a05w/index.m3u8
 #EXTINF:-1 group-title="⚽DEPORTES⚽" tvg-logo="https://i.postimg.cc/qvDzY44D/WIN-SPORTS-BOTON-AZUL.png",⚽| WIN SPORTS HD
 http://181.78.12.119:16123/play/a041/index.m3u8
-#EXTINF:-1 group-title="PERU *" tvg-logo="https://i.postimg.cc/BQrnMgZb/Mosca-Latina.jpg",LATINA TV PERU SD
-http://181.39.202.98:9993/play/a17y/index.m3u8
+#EXTINF:-1 group-title="PERU *" tvg-logo="https://i.postimg.cc/SK0nVQkV/univision-noticias.png",UNIVISION TV HD
+http://177.93.50.203:4000/play/1123/index.m3u8
 #EXTINF:-1 group-title="PERU *" tvg-logo="https://i.postimg.cc/BQrnMgZb/Mosca-Latina.jpg",LATINA TV PERU HD
 http://200.119.222.198:25470/play/a01b/index.m3u8
-#EXTINF:-1 group-title="PERU *" tvg-logo="https://i.postimg.cc/6ppvxzJ0/image.png",AMERICA TV PY SD
-http://190.217.20.100:10800/play/a02f/index.m3u8
-#EXTINF:-1 group-title="PERU *" tvg-logo="https://i.postimg.cc/rFJMJ9ny/AMERICA-BLANCIO.png",AMERICA TV PERU HD
-http://181.39.202.98:9993/play/a17x/index.m3u8
 #EXTINF:-1 group-title="PERU *" tvg-logo="https://i.postimg.cc/rFJMJ9ny/AMERICA-BLANCIO.png",AMERICA TV PERU HD
 http://200.119.222.198:25470/play/a01a/index.m3u8
 #EXTINF:-1 group-title="PREMIUM" tvg-logo="https://i.postimg.cc/C5Yyth5C/CINE_PREMIUM.png",CINE PREMIUM
 http://181.78.12.119:16123/play/ch49/index.m3u8
+#EXTINF:-1 group-title="PREMIUM" tvg-logo="https://i.postimg.cc/C5Yyth5C/CINE_PREMIUM.png",CINE PREMIUM
+http://177.93.50.203:4000/play/1120/index.m3u8
 #EXTINF:-1 group-title="PREMIUM" tvg-logo="https://i.postimg.cc/nVDd6ffg/CINE_HISPANO.png",CINE HISPANO
 http://181.78.12.119:16123/play/ch51/index.m3u8
+#EXTINF:-1 group-title="PREMIUM" tvg-logo="https://i.postimg.cc/nVDd6ffg/CINE_HISPANO.png",CINE HISPANO
+http://177.93.50.203:4000/play/1121/index.m3u8
 #EXTINF:-1 group-title="PREMIUM" tvg-logo="https://i.postimg.cc/jS00fjqx/CINE_FAMILIAR.png",CINE FAMILIAR
 http://181.78.12.119:16123/play/ch52/index.m3u8
+#EXTINF:-1 group-title="PREMIUM" tvg-logo="https://i.postimg.cc/jS00fjqx/CINE_FAMILIAR.png",CINE FAMILIAR
+http://177.93.50.203:4000/play/1120/index.m3u8
 #EXTINF:-1 group-title="PREMIUM" tvg-logo="https://i.postimg.cc/hjrgpJcB/MI_MUSICA-REGGATON.png",MI MUSICA REGGAETON
 http://181.78.12.119:16123/play/ch53/index.m3u8
+#EXTINF:-1 group-title="PREMIUM" tvg-logo="https://i.postimg.cc/hjrgpJcB/MI_MUSICA-REGGATON.png",MI MUSICA REGGAETON
+http://177.93.50.203:4000/play/1125/index.m3u8
 #EXTINF:-1 group-title="PREMIUM" tvg-logo="https://i.postimg.cc/N0KphCtB/MI-MUSICA-ROMANTICA.png",MI MUSICA ROMANTICA
 http://181.78.12.119:16123/play/ch54/index.m3u8
 #EXTINF:-1 group-title="PREMIUM" tvg-logo="https://i.postimg.cc/4xLBSkrW/MI-MUSICA-SALSA.png",MI MUSICA SALSA
 http://181.78.12.119:16123/play/ch55/index.m3u8
+#EXTINF:-1 group-title="PREMIUM" tvg-logo="https://i.postimg.cc/4xLBSkrW/MI-MUSICA-SALSA.png",MI MUSICA SALSA
+http://177.93.50.203:4000/play/1126/index.m3u8
 #EXTINF:-1 group-title="PREMIUM" tvg-logo="https://i.postimg.cc/KvhjjbVt/MI_MUSICA-POPULAR.png",MI MUSICA POPULAR
 http://181.78.12.119:16123/play/ch56/index.m3u8
+#EXTINF:-1 group-title="PREMIUM" tvg-logo="https://i.postimg.cc/jSQtnhGL/MEMORIAS-TV-esp.png",MEMORIAS TV
+http://177.93.50.203:4000/play/1112/index.m3u8
 #EXTINF:-1 group-title="PREMIUM" tvg-logo="https://i.postimg.cc/ZRNBWv9h/love-nature-logo-peacock.png",LOVE NATURE HD
 http://181.78.12.119:16123/play/ch50/index.m3u8
 #EXTINF:-1 group-title="PREMIUM" tvg-logo="https://i.postimg.cc/brHdNnmR/espn.png",ESPN HD
