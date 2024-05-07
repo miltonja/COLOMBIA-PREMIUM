@@ -3,30 +3,18 @@
 http://190.61.55.186:1010/play/a00n/index.m3u8
 #EXTINF:-1 group-title="⚽DEPORTES⚽" tvg-logo="https://i.postimg.cc/qvDzY44D/WIN-SPORTS-BOTON-AZUL.png",⚽| WIN SPORTS HD
 http://190.61.55.186:1010/play/a01m/index.m3u8
-#EXTINF:-1 group-title="⚽DEPORTES⚽" tvg-logo="https://i.postimg.cc/qvDzY44D/WIN-SPORTS-BOTON-AZUL.png",⚽| WIN SPORTS HD
-http://168.90.14.118:8282/play/a00b/index.m3u8
 #EXTINF:-1 group-title="CULTURA" tvg-logo="https://i.postimg.cc/kGKTjVF3/love-nature.png",LOVE NATURE HD
 http://181.176.172.66:9000/play/a02p/index.m3u8
 #EXTINF:-1 group-title="PREMIUM" tvg-logo="https://i.postimg.cc/ZRNBWv9h/love-nature-logo-peacock.png",LOVE NATURE HD
 http://181.78.12.119:16123/play/ch50/index.m3u8
-#EXTINF:-1 group-title="PERU *" tvg-logo="https://i.postimg.cc/BQrnMgZb/Mosca-Latina.jpg",LATINA TV PERU HD
-http://181.176.172.66:9000/play/a034/index.m3u8
-#EXTINF:-1 group-title="PERU *" tvg-logo="https://i.postimg.cc/BQrnMgZb/Mosca-Latina.jpg",LATINA TV PERU HD
-http://181.176.172.66:9000/play/a04e/index.m3u8
 #EXTINF:-1 group-title="PERU *" tvg-logo="https://i.postimg.cc/BQrnMgZb/Mosca-Latina.jpg",LATINA TV PERU SD
 http://190.61.55.186:1010/play/a00z/index.m3u8
-#EXTINF:-1 group-title="PERU *" tvg-logo="https://i.postimg.cc/BQrnMgZb/Mosca-Latina.jpg",LATINA TV PERU HD
-http://38.43.150.123:8000/play/a00i/index.m3u8
 #EXTINF:-1 group-title="PERU *" tvg-logo="https://i.postimg.cc/6ppvxzJ0/image.png",AMERICA TV PY SD
 http://181.176.172.66:9000/play/a02k/index.m3u8
 #EXTINF:-1 group-title="PERU *" tvg-logo="https://i.postimg.cc/6ppvxzJ0/image.png",AMERICA TV PERU SD
 http://181.176.172.66:9000/play/a04f/index.m3u8
 #EXTINF:-1 group-title="PERU *" tvg-logo="https://i.postimg.cc/6ppvxzJ0/image.png",AMERICA TV PERU HD
 http://190.61.55.186:1010/play/a00y/index.m3u8
-#EXTINF:-1 group-title="PERU *" tvg-logo="https://i.postimg.cc/rFJMJ9ny/AMERICA-BLANCIO.png",AMERICA TV PERU HD
-http://38.43.150.123:8000/play/a00j/index.m3u8
-#EXTINF:-1 group-title="PERU *" tvg-logo="https://i.postimg.cc/rFJMJ9ny/AMERICA-BLANCIO.png",AMERICA TV PERU HD
-http://38.43.150.123:8000/play/a03g/index.m3u8
 #EXTINF:-1 group-title="PREMIUM" tvg-logo="https://i.postimg.cc/C5Yyth5C/CINE_PREMIUM.png",CINE PREMIUM
 http://181.78.12.119:16123/play/ch49/index.m3u8
 #EXTINF:-1 group-title="PREMIUM" tvg-logo="https://i.postimg.cc/nVDd6ffg/CINE_HISPANO.png",CINE HISPANO
@@ -149,8 +137,6 @@ http://181.78.12.119:16123/play/ch70/index.m3u8
 http://181.78.12.119:16123/play/ch71/index.m3u8
 #EXTINF:-1 group-title="PREMIUM" tvg-logo="https://i.postimg.cc/wjNzN5qM/Logotipo-de-Telemedell-n.png",TELE MEDELLIN
 http://181.78.12.119:16123/play/ch73/index.m3u8
-#EXTINF:-1 group-title="PREMIUM" tvg-logo="https://i.postimg.cc/qvxG9Gr4/teleislas-bueno.png",TELEISLAS
-http://181.78.12.119:16123/play/ch37/index.m3u8
 #EXTINF:-1 group-title="PREMIUM" tvg-logo="https://i.postimg.cc/kGkRB9Cn/Cartoon_Network.png",Cartoon Network HD
 http://181.78.12.119:16123/play/ch09/index.m3u8
 #EXTINF:-1 group-title="PREMIUM" tvg-logo="https://i.postimg.cc/QxmV2p98/Film&Arts.png",Film&Arts
@@ -175,8 +161,6 @@ http://181.78.12.119:16123/play/ch01/index.m3u8
 http://181.78.12.119:16123/play/ch02/index.m3u8
 #EXTINF:-1 group-title="PREMIUM" tvg-logo="https://i.postimg.cc/yN9YC2Pv/Imagen76.png",Disney HD
 http://181.78.12.119:16123/play/ch03/index.m3u8
-#EXTINF:-1 group-title="PREMIUM" tvg-logo="https://i.postimg.cc/Kj4cgf2R/1200px-Zoo-Moo-logo-svg.png",ZOOMOO
-http://181.78.12.119:16123/play/ch04/index.m3u8
 #EXTINF:-1 group-title="PREMIUM" tvg-logo="https://i.postimg.cc/7hvTLwwq/Disney_Channel.png",DISNEY JR
 http://181.78.12.119:16123/play/ch05/index.m3u8
 #EXTINF:-1 group-title="PREMIUM" tvg-logo="https://i.postimg.cc/Dw3C0187/cntv-logo-300x300.png",INFANTIL
@@ -193,3 +177,153 @@ http://190.61.55.186:1010/play/a00d/index.m3u8
 http://190.61.55.186:1010/play/a003/index.m3u8
 #EXTINF:-1 group-title="PREMIUM"tvg-logo="https://i.postimg.cc/0jHJsckW/discovery-world.png",Discovery World HD
 http://190.61.55.186:1010/play/a00e/index.m3u8
+#EXTINF:-1 ,Пятый канал International
+http://strm.yandex.ru/kal/5_kanal_int_belarus/5_kanal_int_belarus0.m3u8
+#EXTINF:-1 ,МИР
+http://strm.yandex.ru/kal/mir_belarus/mir_belarus0.m3u8
+#EXTINF:-1 ,ТНТ International HD
+http://strm.yandex.ru/kal/tnt_interneshnl_belarus/tnt_interneshnl_belarus0.m3u8
+#EXTINF:-1 ,Ю
+http://strm.yandex.ru/kal/utv/utv0.m3u8
+#EXTINF:-1 ,Москва 24 (Москва)
+http://strm.yandex.ru/kal/msk24_n/msk24_n0.m3u8
+#EXTINF:-1 ,Старт HD
+http://strm.yandex.ru/kal/start/start0.m3u8
+#EXTINF:-1 ,Старт ТРИУМФ HD
+http://strm.yandex.ru/kal/start_triumf/start_triumf0.m3u8
+#EXTINF:-1 ,UDAR HD
+http://strm.yandex.ru/kal/udar/udar0.m3u8
+#EXTINF:-1 ,Футбол
+http://strm.yandex.ru/kal/futbol_belarus/futbol_belarus0.m3u8
+#EXTINF:-1 ,SD REX
+http://strm.yandex.ru/kal/russkoe_ekstremalnoe_tv_belarus/russkoe_ekstremalnoe_tv_belarus0.m3u8
+#EXTINF:-1 ,НТВ ПРАВО
+http://strm.yandex.ru/kal/ntv_pravo_new/ntv_pravo_new0.m3u8
+#EXTINF:-1 ,НТВ СЕРИАЛ HD
+http://strm.yandex.ru/kal/ntv_serial_new/ntv_serial_new0.m3u8
+#EXTINF:-1 ,НТВ СТИЛЬ HD
+http://strm.yandex.ru/kal/ntv_stil/ntv_stil0.m3u8
+#EXTINF:-1 ,НТВ ХИТ HD
+http://strm.yandex.ru/kal/ntv_hit/ntv_hit0.m3u8
+#EXTINF:-1 ,BollywooD HD
+http://strm.yandex.ru/kal/bollywood_belarus/bollywood_belarus0.m3u8
+#EXTINF:-1 ,HollywooD HD
+http://strm.yandex.ru/kal/hollywood_belarus/hollywood_belarus0.m3u8
+#EXTINF:-1 ,Dizi Channel HD
+http://strm.yandex.ru/kal/timeless_dizi_channel_belarus/timeless_dizi_channel_belarus0.m3u8
+#EXTINF:-1 ,КИНОМАН
+http://strm.yandex.ru/kal/kinoman_belarus/kinoman_belarus0.m3u8
+#EXTINF:-1 ,TV XXI
+http://strm.yandex.ru/kal/tv_21_belarus/tv_21_belarus0.m3u8
+#EXTINF:-1 ,CINEMA HD
+http://strm.yandex.ru/kal/cinema_tv_belarus/cinema_tv_belarus0.m3u8
+#EXTINF:-1 ,НСТ
+http://strm.yandex.ru/kal/nst_belarus/nst_belarus0.m3u8
+#EXTINF:-1 ,360° HD
+http://strm.yandex.ru/kal/360tv/360tv0.m3u8
+#EXTINF:-1 ,Сарафан
+http://strm.yandex.ru/kal/sarahfan_belarus/sarahfan_belarus0.m3u8
+#EXTINF:-1 ,2x2
+http://strm.yandex.ru/kal/2x2_belarus/2x2_belarus0.m3u8
+#EXTINF:-1 ,Лёва HD
+http://strm.yandex.ru/kal/leva/leva0.m3u8
+#EXTINF:-1 ,Мультиландия HD
+http://strm.yandex.ru/kal/multilandia/multilandia0.m3u8
+#EXTINF:-1 ,В гостях у сказки HD
+http://strm.yandex.ru/kal/v_gostyah_u_skazki/v_gostyah_u_skazki0.m3u8
+#EXTINF:-1 ,Капитан Фантастика HD
+http://strm.yandex.ru/kal/kapitan_fantastika_belarus/kapitan_fantastika_belarus0.m3u8
+#EXTINF:-1 ,Duck TV HD
+http://strm.yandex.ru/kal/ducktv_belarus/ducktv_belarus0.m3u8
+#EXTINF:-1 ,Мульт
+http://strm.yandex.ru/kal/mult_belarus/mult_belarus0.m3u8
+#EXTINF:-1 ,Tiji
+http://strm.yandex.ru/kal/tiji_belarus/tiji_belarus0.m3u8
+#EXTINF:-1 ,Gulli Girl
+http://strm.yandex.ru/kal/gulli_girl_belarus/gulli_girl_belarus0.m3u8
+#EXTINF:-1 ,Наша Сибирь HD
+http://strm.yandex.ru/kal/sibir/sibir0.m3u8
+#EXTINF:-1 ,Диалоги о рыбалке HD
+http://strm.yandex.ru/kal/dialogi/dialogi0.m3u8
+#EXTINF:-1 ,RTG HD
+http://strm.yandex.ru/kal/rtg/rtg0.m3u8
+#EXTINF:-1 ,НЕИЗВЕСТНАЯ РОССИЯ HD
+http://strm.yandex.ru/kal/neizvestnaia_rossia/neizvestnaia_rossia0.m3u8
+#EXTINF:-1 ,В мире животных HD
+http://strm.yandex.ru/kal/v_mire_zhivotnykh_belarus/v_mire_zhivotnykh_belarus0.m3u8
+#EXTINF:-1 ,Моя планета HD
+http://strm.yandex.ru/kal/moya_planeta_hd_belarus/moya_planeta_hd_belarus0.m3u8
+#EXTINF:-1 ,Приключения HD
+http://strm.yandex.ru/kal/prikluchenia_belarus/prikluchenia_belarus0.m3u8
+#EXTINF:-1 ,Наука 2.0 HD
+http://strm.yandex.ru/kal/nauka_belarus/nauka_belarus0.m3u8
+#EXTINF:-1 ,Galaxy TV HD
+http://strm.yandex.ru/kal/tainy_galaktiki_belarus/tainy_galaktiki_belarus0.m3u8
+#EXTINF:-1 ,Первый космический HD
+http://strm.yandex.ru/kal/pervyi_kosmicheskiy_belarus/pervyi_kosmicheskiy_belarus0.m3u8
+#EXTINF:-1 ,Охотник и рыболов Int HD
+http://strm.yandex.ru/kal/ohotnik_rybolov_belarus/ohotnik_rybolov_belarus0.m3u8
+#EXTINF:-1 ,Загородная жизнь
+http://strm.yandex.ru/kal/zagorodnaia_zhizn_belarus/zagorodnaia_zhizn_belarus0.m3u8
+#EXTINF:-1 ,Мужской
+http://strm.yandex.ru/kal/muzhskoi_belarus/muzhskoi_belarus0.m3u8
+#EXTINF:-1 ,Т24
+http://strm.yandex.ru/kal/t24_belarus/t24_belarus0.m3u8
+#EXTINF:-1 ,АРСЕНАЛ
+http://strm.yandex.ru/kal/arsenal_belarus/arsenal_belarus0.m3u8
+#EXTINF:-1 ,Еда ПРЕМИУМ HD
+http://strm.yandex.ru/kal/eda_premium_int_belarus/eda_premium_int_belarus0.m3u8
+#EXTINF:-1 ,RUTV HD
+http://strm.yandex.ru/kal/rutv_cv/rutv_cv0.m3u8
+#EXTINF:-1 ,ТНТ MUSIC HD
+http://strm.yandex.ru/kal/tntmusic/tntmusic0.m3u8
+#EXTINF:-1 ,MUSIC BOX GOLD
+http://strm.yandex.ru/kal/musicboxgold/musicboxgold0.m3u8
+#EXTINF:-1 ,MUSIC BOX RUSSIA HD
+http://strm.yandex.ru/kal/rmbox/rmbox0.m3u8
+#EXTINF:-1 ,BRIDGE TV
+http://strm.yandex.ru/kal/bridgetv/bridgetv0.m3u8
+#EXTINF:-1 ,BRIDGE TV CLASSIC
+http://strm.yandex.ru/kal/bridgetvclassic/bridgetvclassic0.m3u8
+#EXTINF:-1 ,BRIDGE TV DELUXE HD
+http://strm.yandex.ru/kal/bridgetvdeluxe/bridgetvdeluxe0.m3u8
+#EXTINF:-1 ,BRIDGE TV ROCK HD
+http://strm.yandex.ru/kal/bridge_tv_fresh/bridge_tv_fresh0.m3u8
+#EXTINF:-1 ,BRIDGE TV HITS HD
+http://strm.yandex.ru/kal/bridgetvhits/bridgetvhits0.m3u8
+#EXTINF:-1 ,BRIDGE TV РУССКИЙ ХИТ HD
+http://strm.yandex.ru/kal/bridgetv_russkiyhit/bridgetv_russkiyhit0.m3u8
+#EXTINF:-1 ,BRIDGE TV ШЛЯГЕР
+http://strm.yandex.ru/kal/bridgetv_shlyager/bridgetv_shlyager0.m3u8
+#EXTINF:-1 ,BRIDGE TV BABY TIME
+http://strm.yandex.ru/kal/baby_time/baby_time0.m3u8
+#EXTINF:-1 ,360° НОВОСТИ HD
+http://strm.yandex.ru/kal/360news/360news0.m3u8
+#EXTINF:-1 ,МИР 24 HD
+http://strm.yandex.ru/kal/mir24/mir240.m3u8
+#EXTINF:-1 ,Fashion TV HD
+http://strm.yandex.ru/kal/fashion_tv/fashion_tv0.m3u8
+#EXTINF:-1 ,Fashion & Lifestyle HD
+http://strm.yandex.ru/kal/fashion_lifestyle_belarus/fashion_lifestyle_belarus0.m3u8
+#EXTINF:-1 ,Беларусь 1 (Беларусь)
+http://strm.yandex.ru/kal/belarus_1/belarus_10.m3u8
+#EXTINF:-1 ,Беларусь 2 (Беларусь)
+http://strm.yandex.ru/kal/belarus_2/belarus_20.m3u8
+#EXTINF:-1 ,Беларусь 3 (Беларусь)
+http://strm.yandex.ru/kal/belarus_3/belarus_30.m3u8
+#EXTINF:-1 ,Беларусь 5 (Беларусь)
+http://strm.yandex.ru/kal/belarus_5/belarus_50.m3u8
+#EXTINF:-1 ,Беларусь РТР (Беларусь)
+http://strm.yandex.ru/kal/rtr_belarus/rtr_belarus0.m3u8
+#EXTINF:-1 ,НТВ (Беларусь)
+http://strm.yandex.ru/kal/ntv_belarus/ntv_belarus0.m3u8
+#EXTINF:-1 ,Europa Plus TV (Беларусь)
+http://strm.yandex.ru/kal/europa_plus_tv/europa_plus_tv0.m3u8
+#EXTINF:-1 ,СТВ (Беларусь)
+http://strm.yandex.ru/kal/stv_belarus/stv_belarus0.m3u8
+#EXTINF:-1 ,ТВ3 (Беларусь)
+http://strm.yandex.ru/kal/tv3_belarus/tv3_belarus0.m3u8
+#EXTINF:-1 ,ОНТ (Беларусь)
+http://strm.yandex.ru/kal/ont_belarus/ont_belarus0.m3u8
+#EXTINF:-1 ,БелМУЗ ТВ (Беларусь)
+http://strm.yandex.ru/kal/belmuztv/belmuztv0.m3u8
