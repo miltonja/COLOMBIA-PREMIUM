@@ -481,6 +481,70 @@ http://181.205.77.118:4849/play/CH61
 http://181.205.77.118:4849/play/CH16
 #EXTINF:-1,Win Sports+ HD
 http://181.205.77.118:4849/play/CH14
+#EXTINF:-1,Adult Swim
+http://45.5.119.106:8000/play/a02l/index.m3u8
+#EXTINF:-1,Canal 11 - GUA
+http://45.5.119.106:8000/play/a02o/index.m3u8
+#EXTINF:-1,Canal 13-GUA
+http://45.5.119.106:8000/play/a02n/index.m3u8
+#EXTINF:-1,Canal 3 - GUA
+http://45.5.119.106:8000/play/a031/index.m3u8
+#EXTINF:-1,Canal 7 - GUA
+http://45.5.119.106:8000/play/a030/index.m3u8
+#EXTINF:-1,Canal Claro HD
+http://45.5.119.106:8000/play/a03g/index.m3u8
+#EXTINF:-1,CineMax
+http://45.5.119.106:8000/play/a02x/index.m3u8
+#EXTINF:-1,Claro Sports 1 HD
+http://45.5.119.106:8000/play/a03e/index.m3u8
+#EXTINF:-1,Claro Sports 2 HD
+http://45.5.119.106:8000/play/a03f/index.m3u8
+#EXTINF:-1,Disney Chanel
+http://45.5.119.106:8000/play/a01z/index.m3u8
+#EXTINF:-1,Disney JR
+http://45.5.119.106:8000/play/a02k/index.m3u8
+#EXTINF:-1,ESPN 4 HD
+http://45.5.119.106:8000/play/a02m/index.m3u8
+#EXTINF:-1,ESPN 2 HD
+http://45.5.119.106:8000/play/a029/index.m3u8
+#EXTINF:-1,ESPN 3 HD
+http://45.5.119.106:8000/play/a02v/index.m3u8
+#EXTINF:-1,ESPN 4
+http://45.5.119.106:8000/play/a02s/index.m3u8
+#EXTINF:-1,ESPN HD
+http://45.5.119.106:8000/play/a02a/index.m3u8
+#EXTINF:-1,FX
+http://45.5.119.106:8000/play/a02p/index.m3u8
+#EXTINF:-1,Fox
+http://45.5.119.106:8000/play/a034/index.m3u8
+#EXTINF:-1,Fox 2
+http://45.5.119.106:8000/play/a035/index.m3u8
+#EXTINF:-1,Fox 3
+http://45.5.119.106:8000/play/a036/index.m3u8
+#EXTINF:-1,HBO 2 HD
+http://45.5.119.106:8000/play/a01r/index.m3u8
+#EXTINF:-1,HBO Family HD
+http://45.5.119.106:8000/play/a01t/index.m3u8
+#EXTINF:-1,HBO HD
+http://45.5.119.106:8000/play/a01q/index.m3u8
+#EXTINF:-1,HBO Plus Latinoamerica
+http://45.5.119.106:8000/play/a01s/index.m3u8
+#EXTINF:-1,HBO XTREME
+http://45.5.119.106:8000/play/a01u/index.m3u8
+#EXTINF:-1,History 2
+http://45.5.119.106:8000/play/a01x/index.m3u8
+#EXTINF:-1,History Channel
+http://45.5.119.106:8000/play/a025/index.m3u8
+#EXTINF:-1,Playboy
+http://45.5.119.106:8000/play/a01v/index.m3u8
+#EXTINF:-1,RCN Novelas
+http://45.5.119.106:8000/play/a01w/index.m3u8
+#EXTINF:-1,VENUS
+http://45.5.119.106:8000/play/a02t/index.m3u8
+#EXTINF:-1,VENUS
+http://45.5.119.106:8000/play/a01y/index.m3u8
+#EXTINF:-1,Xecanita Tv
+http://45.5.119.106:8000/play/a03i/index.m3u8
 #EXTINF:-1 ,Пятый канал International
 http://strm.yandex.ru/kal/5_kanal_int_belarus/5_kanal_int_belarus0.m3u8
 #EXTINF:-1 ,МИР
