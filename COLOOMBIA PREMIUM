@@ -1,8 +1,8 @@
 #EXTM3U
-#EXTINF:-1 group-title="⚽DEPORTES⚽" tvg-logo="https://i.postimg.cc/1XkcFmx7/WIN-SPORTS-BOTON-AZUL-ESP.png",⚽| WIN SPORTS HD
-http://190.61.55.186:1010/play/a00n/index.m3u8
-#EXTINF:-1 group-title="⚽DEPORTES⚽" tvg-logo="https://i.postimg.cc/qvDzY44D/WIN-SPORTS-BOTON-AZUL.png",⚽| WIN SPORTS HD
-http://190.61.55.186:1010/play/a01m/index.m3u8
+#EXTINF:-1 group-title="⚽DEPORTES⚽" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/58/Win_Sports_nuevo_logo.svg/1280px-Win_Sports_nuevo_logo.svg.png",⚽| WIN SPORTS HD (🇨🇴)
+http://corgol.com@cdn1host.online:2999/xman2b/d5lxdEfHnB/297?mode=0
+#EXTINF:-1 group-title="⚽DEPORTES⚽" tvg-logo="https://www.winsportsmas.com/sites/default/files/inline-images/WinfutbolNaranja.png",⚽| WIN SPORTS HD (🇨🇴)
+http://corgol.com@cdn1host.online:2999/xman2b/d5lxdEfHnB/1417?mode=0
 #EXTINF:-1 group-title="CULTURA" tvg-logo="https://i.postimg.cc/kGKTjVF3/love-nature.png",LOVE NATURE HD
 http://181.176.172.66:9000/play/a02p/index.m3u8
 #EXTINF:-1 group-title="PREMIUM" tvg-logo="https://i.postimg.cc/ZRNBWv9h/love-nature-logo-peacock.png",LOVE NATURE HD
