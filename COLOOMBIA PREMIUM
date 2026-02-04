@@ -112,7 +112,7 @@ http://corgol.com@cdn1host.online:2999/xman2b/d5lxdEfHnB/1243?mode=0
 #EXTINF:-1 ,Cablenoticias (Colombia) (🇨🇴)
 http://corgol.com@5ea86ddd14ce7.streamlock.net:1935/live/cable09061970/.m3u8
 #EXTINF:-1 group-title="PREMIUM" tvg-logo="https://i.postimg.cc/1XsNq5h7/Canal-tro-logo.png",Canal TRO
-http://190.61.55.186:1010/play/a028/index.m3u8
+http://corgol.com@cdn1host.online:2999/xman2b/d5lxdEfHnB/1716?mode=0
 #EXTINF:-1 group-title="PREMIUM" tvg-logo="https://i.postimg.cc/gJPDHwjP/RCN_BANDERA.png",RCN
 http://181.78.12.119:16123/play/ch59a/index.m3u8
 #EXTINF:-1 ,RCN (Colombia) (🇨🇴)
