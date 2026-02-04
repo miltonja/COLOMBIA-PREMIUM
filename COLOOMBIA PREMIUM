@@ -35,8 +35,6 @@ http://181.78.12.119:16123/play/ch55/index.m3u8
 http://181.78.12.119:16123/play/ch56/index.m3u8
 #EXTINF:-1 group-title="PREMIUM" tvg-logo="https://i.postimg.cc/brHdNnmR/espn.png",ESPN HD
 http://181.78.12.119:16123/play/ch16/index.m3u8
-#EXTINF:-1 group-title="PREMIUM" tvg-logo="https://i.postimg.cc/xCmchhHh/espn_2.png",ESPN 2 HD
-http://181.78.12.119:16123/play/ch17/index.m3u8
 #EXTINF:-1 group-title="PREMIUM" tvg-logo="https://i.postimg.cc/j2rLbc45/espn_3.png",ESPN 3 HD
 http://181.78.12.119:16123/play/ch18/index.m3u8
 #EXTINF:-1 group-title="PREMIUM" tvg-logo="https://i.postimg.cc/Bn4YVrm5/4ca6c9095961295111111e43acf5c420o.png",ESPN 4 HD
