@@ -55,8 +55,14 @@ https://corgol.com@cdn.amelbasoluciones.co:8081/calimalive/index.m3u8
 https://corgol.com@is.gd/u1he5T?.m3u8
 #EXTINF:-1 group-title="CULTURA" tvg-logo="https://i.postimg.cc/QxbVkf6L/Animal_Planet.png",ANIMAL PLANET HD (🇦🇷)
 http://corgol.com@38.199.4.105:9999/play/a0mg
-#EXTINF:-1 group-title="PERU *" tvg-logo="https://i.postimg.cc/BQrnMgZb/Mosca-Latina.jpg",LATINA TV PERU SD (🇵🇪)
-http://190.61.55.186:1010/play/a00z/index.m3u8
+#EXTINF:-1 group-title="Animation" tvg-logo="https://i.imgur.com/1CftDPB.png",Locomotion TV (480p) [Not 24/7]
+http://51.222.85.85:81/hls/loco/index.m3u8
+#EXTINF:-1 group-title="News" tvg-logo="https://i.imgur.com/fY9256H.png",ATV+ (🇵🇪)
+https://alba-pe-atv-atvmas.stream.mediatiquestream.com/index.m3u8
+#EXTINF:-1 group-title="News" tvg-logo="https://i.imgur.com/pu0BSB7.png",Exitosa (720p) (🇵🇪)
+https://streamtv.onliv3.online:1936/exito-tv/exito-tv/playlist.m3u8
+#EXTINF:-1 group-title="General" tvg-logo="https://i.imgur.com/8Hvk59N.png",Latina (720p) (🇵🇪)
+https://redirector.rudo.video/hls-video/567ffde3fa319fadf3419efda25619456231dfea/latina/latina.smil/playlist.m3u8
 #EXTINF:-1 group-title="PERU *" tvg-logo="https://i.postimg.cc/6ppvxzJ0/image.png",AMERICA TV PY SD (🇵🇪)
 http://corgol.com@45.173.75.4:2061/play/a08h
 #EXTINF:-1 group-title="PERU *" tvg-logo="https://i.postimg.cc/6ppvxzJ0/image.png",AMERICA TV PERU SD (🇵🇪)
