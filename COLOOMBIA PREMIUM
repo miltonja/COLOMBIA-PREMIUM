@@ -13,7 +13,7 @@ http://corgol.com@181.78.82.6:46090/play/a05y
 http://corgol.com@cdn1host.online:2999/xman2b/d5lxdEfHnB/284?mode=0
 #EXTINF:-1 group-title="PREMIUM" tvg-logo="https://i.postimg.cc/XqbrNnj4/CARACOL_GRIS.png",Caracol HD  (🇨🇴)
 http://corgol.com@cdn1host.online:2999/xman2b/d5lxdEfHnB/1243?mode=0
-#EXTINF:-1 ,Cablenoticias (Colombia) (🇨🇴)
+#EXTINF:-1 group-title="PREMIUM" tvg-logo="https://i.postimg.cc/qRzwz4pC/Cable_Noticias_azul.png",Cablenoticias (Colombia) (🇨🇴)
 http://corgol.com@5ea86ddd14ce7.streamlock.net:1935/live/cable09061970/.m3u8
 #EXTINF:-1 group-title="PREMIUM" tvg-logo="https://i.postimg.cc/1XsNq5h7/Canal-tro-logo.png",Canal TRO  (🇨🇴)
 http://corgol.com@cdn1host.online:2999/xman2b/d5lxdEfHnB/1716?mode=0
