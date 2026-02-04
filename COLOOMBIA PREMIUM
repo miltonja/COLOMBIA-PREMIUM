@@ -97,11 +97,11 @@ http://181.78.12.119:16123/play/ch48/index.m3u8
 http://181.78.12.119:16123/play/ch57/index.m3u8
 #EXTINF:-1 group-title="PREMIUM" tvg-logo="https://i.postimg.cc/661mYPzt/las_estrellas.png",Las Estrellas HD (🇲🇽)
 https://corgol.com@channel01-onlymex.akamaized.net/hls/live/2022749/event01/index.m3u8
-#EXTINF:-1 group-title="PREMIUM" tvg-logo="https://i.postimg.cc/dtsP3MXW/image.png",Telenovelas
+#EXTINF:-1 group-title="PREMIUM" tvg-logo="https://i.postimg.cc/dtsP3MXW/image.png",Telenovelas  (🇨🇴)
 http://181.78.12.119:16123/play/ch45/index.m3u8
-#EXTINF:-1 group-title="PREMIUM" tvg-logo="https://i.postimg.cc/V6RSXgpV/City-TV.png",CITY TV
+#EXTINF:-1 group-title="PREMIUM" tvg-logo="https://i.postimg.cc/V6RSXgpV/City-TV.png",CITY TV  (🇨🇴)
 http://181.78.12.119:16123/play/ch42/index.m3u8
-#EXTINF:-1 group-title="PREMIUM" tvg-logo="https://i.postimg.cc/XqbrNnj4/CARACOL_GRIS.png",Caracol HD
+#EXTINF:-1 group-title="PREMIUM" tvg-logo="https://i.postimg.cc/XqbrNnj4/CARACOL_GRIS.png",Caracol HD  (🇨🇴)
 http://181.78.12.119:16123/play/ch58/index.m3u8
 #EXTINF:-1 ,Caracol (Colombia) (🇨🇴)
 http://corgol.com@181.78.82.6:46090/play/a05y
@@ -111,9 +111,9 @@ http://corgol.com@cdn1host.online:2999/xman2b/d5lxdEfHnB/284?mode=0
 http://corgol.com@cdn1host.online:2999/xman2b/d5lxdEfHnB/1243?mode=0
 #EXTINF:-1 ,Cablenoticias (Colombia) (🇨🇴)
 http://corgol.com@5ea86ddd14ce7.streamlock.net:1935/live/cable09061970/.m3u8
-#EXTINF:-1 group-title="PREMIUM" tvg-logo="https://i.postimg.cc/1XsNq5h7/Canal-tro-logo.png",Canal TRO
+#EXTINF:-1 group-title="PREMIUM" tvg-logo="https://i.postimg.cc/1XsNq5h7/Canal-tro-logo.png",Canal TRO  (🇨🇴)
 http://corgol.com@cdn1host.online:2999/xman2b/d5lxdEfHnB/1716?mode=0
-#EXTINF:-1 group-title="PREMIUM" tvg-logo="https://i.postimg.cc/gJPDHwjP/RCN_BANDERA.png",RCN
+#EXTINF:-1 group-title="PREMIUM" tvg-logo="https://i.postimg.cc/gJPDHwjP/RCN_BANDERA.png",RCN  (🇨🇴)
 http://181.78.12.119:16123/play/ch59a/index.m3u8
 #EXTINF:-1 ,RCN (Colombia) (🇨🇴)
 http://corgol.com@cdn1host.online:2999/xman2b/d5lxdEfHnB/302?mode=0
@@ -121,29 +121,29 @@ http://corgol.com@cdn1host.online:2999/xman2b/d5lxdEfHnB/302?mode=0
 http://corgol.com@cdn1host.online:2999/xman2b/d5lxdEfHnB/1671?mode=0
 #EXTINF:-1 ,RCN+ (Colombia) (🇨🇴)
 https://corgol.com@rcntv-rcnmas-1-us.plex.wurl.tv/playlist.m3u8
-#EXTINF:-1 group-title="PREMIUM" tvg-logo="https://i.postimg.cc/gJPDHwjP/RCN_BANDERA.png",RCN HD
+#EXTINF:-1 group-title="PREMIUM" tvg-logo="https://i.postimg.cc/gJPDHwjP/RCN_BANDERA.png",RCN HD  (🇨🇴) 
 http://181.78.12.119:16123/play/ch59/index.m3u8
-#EXTINF:-1 group-title="PREMIUM" tvg-logo="https://i.postimg.cc/pyN9d3D4/TELECARIBE.png",TELECARIBE
+#EXTINF:-1 group-title="PREMIUM" tvg-logo="https://i.postimg.cc/pyN9d3D4/TELECARIBE.png",TELECARIBE  (🇨🇴)
 http://181.78.12.119:16123/play/ch60/index.m3u8
-#EXTINF:-1 group-title="PREMIUM" tvg-logo="https://i.postimg.cc/mZMy6KnP/SEÑAL_COLOMBIA_COL.png",SENAL COLOMBIA
+#EXTINF:-1 group-title="PREMIUM" tvg-logo="https://i.postimg.cc/mZMy6KnP/SEÑAL_COLOMBIA_COL.png",SENAL COLOMBIA  (🇨🇴)
 http://181.78.12.119:16123/play/ch61/index.m3u8
-#EXTINF:-1 group-title="PREMIUM" tvg-logo="https://i.postimg.cc/QMk6bbF2/CANAL-INSTITUCIONAL.png",INSTITUCIONAL
+#EXTINF:-1 group-title="PREMIUM" tvg-logo="https://i.postimg.cc/QMk6bbF2/CANAL-INSTITUCIONAL.png",INSTITUCIONAL  (🇨🇴)
 http://181.78.12.119:16123/play/ch62/index.m3u8
-#EXTINF:-1 group-title="PREMIUM" tvg-logo="https://i.postimg.cc/fT9fCKF8/Canal-UNO-Colombia-HD-2017-1.png",CANAL UNO
+#EXTINF:-1 group-title="PREMIUM" tvg-logo="https://i.postimg.cc/fT9fCKF8/Canal-UNO-Colombia-HD-2017-1.png",CANAL UNO  (🇨🇴)
 http://181.78.12.119:16123/play/ch63/index.m3u8
-#EXTINF:-1 group-title="PREMIUM" tvg-logo="https://i.postimg.cc/Hs6XwGt9/TreceTV.png",TRECE
+#EXTINF:-1 group-title="PREMIUM" tvg-logo="https://i.postimg.cc/Hs6XwGt9/TreceTV.png",TRECE  (🇨🇴)
 http://181.78.12.119:16123/play/ch64/index.m3u8
-#EXTINF:-1 group-title="PREMIUM" tvg-logo="https://i.postimg.cc/XJGd7fRZ/Telepac-fico.png",TELEPACIFICO
+#EXTINF:-1 group-title="PREMIUM" tvg-logo="https://i.postimg.cc/XJGd7fRZ/Telepac-fico.png",TELEPACIFICO  (🇨🇴)
 http://181.78.12.119:16123/play/ch66/index.m3u8
-#EXTINF:-1 group-title="PREMIUM" tvg-logo="https://i.postimg.cc/VLBPgsyB/telecafe.jpg",TELECAFE
+#EXTINF:-1 group-title="PREMIUM" tvg-logo="https://i.postimg.cc/VLBPgsyB/telecafe.jpg",TELECAFE  (🇨🇴)
 http://181.78.12.119:16123/play/ch67/index.m3u8
-#EXTINF:-1 group-title="PREMIUM" tvg-logo="https://i.postimg.cc/9Q7TKkpp/image.jpg",CONGRESO
+#EXTINF:-1 group-title="PREMIUM" tvg-logo="https://i.postimg.cc/9Q7TKkpp/image.jpg",CONGRESO  (🇨🇴)
 http://181.78.12.119:16123/play/ch69/index.m3u8
-#EXTINF:-1 group-title="PREMIUM" tvg-logo="https://i.postimg.cc/152Y54xj/CANAL-CAPITAL.png",CANAL CAPITAL
+#EXTINF:-1 group-title="PREMIUM" tvg-logo="https://i.postimg.cc/152Y54xj/CANAL-CAPITAL.png",CANAL CAPITAL  (🇨🇴)
 http://181.78.12.119:16123/play/ch70/index.m3u8
-#EXTINF:-1 group-title="PREMIUM" tvg-logo="https://i.postimg.cc/4dsHqNLv/canales-zoom.png",ZOOM
+#EXTINF:-1 group-title="PREMIUM" tvg-logo="https://i.postimg.cc/4dsHqNLv/canales-zoom.png",ZOOM  (🇨🇴)
 http://181.78.12.119:16123/play/ch71/index.m3u8
-#EXTINF:-1 group-title="PREMIUM" tvg-logo="https://i.postimg.cc/wjNzN5qM/Logotipo-de-Telemedell-n.png",TELE MEDELLIN
+#EXTINF:-1 group-title="PREMIUM" tvg-logo="https://i.postimg.cc/wjNzN5qM/Logotipo-de-Telemedell-n.png",TELE MEDELLIN  (🇨🇴)
 http://181.78.12.119:16123/play/ch73/index.m3u8
 #EXTINF:-1 ,Canal Calima (Colombia) (🇨🇴)
 https://corgol.com@cdn.amelbasoluciones.co:8081/calimalive/index.m3u8
