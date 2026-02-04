@@ -99,8 +99,6 @@ http://181.78.12.119:16123/play/ch57/index.m3u8
 https://corgol.com@channel01-onlymex.akamaized.net/hls/live/2022749/event01/index.m3u8
 #EXTINF:-1 group-title="PREMIUM" tvg-logo="https://i.postimg.cc/dtsP3MXW/image.png",Telenovelas
 http://181.78.12.119:16123/play/ch45/index.m3u8
-#EXTINF:-1 group-title="PREMIUM" tvg-logo="https://i.postimg.cc/15X10BjK/image.jpg",LA KALLE
-http://190.242.46.20:8000/play/a09p/index.m3u8
 #EXTINF:-1 group-title="PREMIUM" tvg-logo="https://i.postimg.cc/V6RSXgpV/City-TV.png",CITY TV
 http://181.78.12.119:16123/play/ch42/index.m3u8
 #EXTINF:-1 group-title="PREMIUM" tvg-logo="https://i.postimg.cc/XqbrNnj4/CARACOL_GRIS.png",Caracol HD
@@ -115,6 +113,12 @@ http://corgol.com@cdn1host.online:2999/xman2b/d5lxdEfHnB/1243?mode=0
 http://190.61.55.186:1010/play/a028/index.m3u8
 #EXTINF:-1 group-title="PREMIUM" tvg-logo="https://i.postimg.cc/gJPDHwjP/RCN_BANDERA.png",RCN
 http://181.78.12.119:16123/play/ch59a/index.m3u8
+#EXTINF:-1 ,RCN (Colombia) (🇨🇴)
+http://corgol.com@cdn1host.online:2999/xman2b/d5lxdEfHnB/302?mode=0
+#EXTINF:-1 ,RCN Noticias (Colombia) (🇨🇴)
+http://corgol.com@cdn1host.online:2999/xman2b/d5lxdEfHnB/1671?mode=0
+#EXTINF:-1 ,RCN+ (Colombia) (🇨🇴)
+https://corgol.com@rcntv-rcnmas-1-us.plex.wurl.tv/playlist.m3u8
 #EXTINF:-1 group-title="PREMIUM" tvg-logo="https://i.postimg.cc/gJPDHwjP/RCN_BANDERA.png",RCN HD
 http://181.78.12.119:16123/play/ch59/index.m3u8
 #EXTINF:-1 group-title="PREMIUM" tvg-logo="https://i.postimg.cc/pyN9d3D4/TELECARIBE.png",TELECARIBE
