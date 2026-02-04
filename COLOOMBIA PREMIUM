@@ -145,6 +145,10 @@ http://181.78.12.119:16123/play/ch70/index.m3u8
 http://181.78.12.119:16123/play/ch71/index.m3u8
 #EXTINF:-1 group-title="PREMIUM" tvg-logo="https://i.postimg.cc/wjNzN5qM/Logotipo-de-Telemedell-n.png",TELE MEDELLIN
 http://181.78.12.119:16123/play/ch73/index.m3u8
+#EXTINF:-1 ,Canal Calima (Colombia) (🇨🇴)
+https://corgol.com@cdn.amelbasoluciones.co:8081/calimalive/index.m3u8
+#EXTINF:-1 ,Canal Claro (Colombia) (🇨🇴)
+https://corgol.com@is.gd/u1he5T?.m3u8
 #EXTINF:-1 group-title="PREMIUM" tvg-logo="https://i.postimg.cc/kGkRB9Cn/Cartoon_Network.png",Cartoon Network HD
 http://181.78.12.119:16123/play/ch09/index.m3u8
 #EXTINF:-1 group-title="PREMIUM" tvg-logo="https://i.postimg.cc/QxmV2p98/Film&Arts.png",Film&Arts
