@@ -95,8 +95,8 @@ http://181.78.12.119:16123/play/ch201/index.m3u8
 http://181.78.12.119:16123/play/ch48/index.m3u8
 #EXTINF:-1 group-title="PREMIUM" tvg-logo="https://i.postimg.cc/fW8tXzXq/de-pelicula-logo-F97-A15125-D-seeklogo-com.png",DPELICULA
 http://181.78.12.119:16123/play/ch57/index.m3u8
-#EXTINF:-1 group-title="PREMIUM" tvg-logo="https://i.postimg.cc/661mYPzt/las_estrellas.png",Las Estrellas HD
-http://181.78.12.119:16123/play/ch44/index.m3u8
+#EXTINF:-1 group-title="PREMIUM" tvg-logo="https://i.postimg.cc/661mYPzt/las_estrellas.png",Las Estrellas HD (🇲🇽)
+https://corgol.com@channel01-onlymex.akamaized.net/hls/live/2022749/event01/index.m3u8
 #EXTINF:-1 group-title="PREMIUM" tvg-logo="https://i.postimg.cc/dtsP3MXW/image.png",Telenovelas
 http://181.78.12.119:16123/play/ch45/index.m3u8
 #EXTINF:-1 group-title="PREMIUM" tvg-logo="https://i.postimg.cc/15X10BjK/image.jpg",LA KALLE
@@ -105,6 +105,12 @@ http://190.242.46.20:8000/play/a09p/index.m3u8
 http://181.78.12.119:16123/play/ch42/index.m3u8
 #EXTINF:-1 group-title="PREMIUM" tvg-logo="https://i.postimg.cc/XqbrNnj4/CARACOL_GRIS.png",Caracol HD
 http://181.78.12.119:16123/play/ch58/index.m3u8
+#EXTINF:-1 ,Caracol (Colombia) (🇨🇴)
+http://corgol.com@181.78.82.6:46090/play/a05y
+#EXTINF:-1 ,Caracol (Colombia) (🇨🇴)
+http://corgol.com@cdn1host.online:2999/xman2b/d5lxdEfHnB/284?mode=0
+#EXTINF:-1 ,Caracol Int (Colombia) (🇨🇴)
+http://corgol.com@cdn1host.online:2999/xman2b/d5lxdEfHnB/1243?mode=0
 #EXTINF:-1 group-title="PREMIUM" tvg-logo="https://i.postimg.cc/1XsNq5h7/Canal-tro-logo.png",Canal TRO
 http://190.61.55.186:1010/play/a028/index.m3u8
 #EXTINF:-1 group-title="PREMIUM" tvg-logo="https://i.postimg.cc/gJPDHwjP/RCN_BANDERA.png",RCN
