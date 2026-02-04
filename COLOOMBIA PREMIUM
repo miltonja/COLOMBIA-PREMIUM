@@ -107,11 +107,11 @@ http://181.78.12.119:16123/play/ch45/index.m3u8
 http://181.78.12.119:16123/play/ch42/index.m3u8
 #EXTINF:-1 group-title="PREMIUM" tvg-logo="https://i.postimg.cc/XqbrNnj4/CARACOL_GRIS.png",Caracol HD  (🇨🇴)
 http://181.78.12.119:16123/play/ch58/index.m3u8
-#EXTINF:-1 ,Caracol (Colombia) (🇨🇴)
+#EXTINF:-1 group-title="PREMIUM" tvg-logo="https://i.postimg.cc/cL3kKZ04/CANAL_CARACOL.png",Caracol HD  (🇨🇴)
 http://corgol.com@181.78.82.6:46090/play/a05y
-#EXTINF:-1 ,Caracol (Colombia) (🇨🇴)
+#EXTINF:-1 group-title="PREMIUM" tvg-logo="https://i.postimg.cc/dt0rSK1Q/Logo_caracol.png",Caracol HD  (🇨🇴)
 http://corgol.com@cdn1host.online:2999/xman2b/d5lxdEfHnB/284?mode=0
-#EXTINF:-1 ,Caracol Int (Colombia) (🇨🇴)
+#EXTINF:-1 group-title="PREMIUM" tvg-logo="https://i.postimg.cc/XqbrNnj4/CARACOL_GRIS.png",Caracol HD  (🇨🇴)
 http://corgol.com@cdn1host.online:2999/xman2b/d5lxdEfHnB/1243?mode=0
 #EXTINF:-1 ,Cablenoticias (Colombia) (🇨🇴)
 http://corgol.com@5ea86ddd14ce7.streamlock.net:1935/live/cable09061970/.m3u8
