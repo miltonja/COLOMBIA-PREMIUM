@@ -95,6 +95,8 @@ http://181.78.12.119:16123/play/ch54/index.m3u8
 http://181.78.12.119:16123/play/ch55/index.m3u8
 #EXTINF:-1 group-title="PREMIUM" tvg-logo="https://i.postimg.cc/KvhjjbVt/MI_MUSICA-POPULAR.png",MI MUSICA POPULAR
 http://181.78.12.119:16123/play/ch56/index.m3u8
+#EXTINF:-1 group-title="Musica" tvg-logo="https://i.postimg.cc/K8Dn3WWJ/XITE_HITS.png",Xite Hits
+https://xite-hitsuk-lg.amagi.tv/playlist.m3u8
 #EXTINF:-1 group-title="PREMIUM" tvg-logo="https://i.postimg.cc/brHdNnmR/espn.png",ESPN HD
 http://181.78.12.119:16123/play/ch16/index.m3u8
 #EXTINF:-1 group-title="PREMIUM" tvg-logo="https://i.postimg.cc/j2rLbc45/espn_3.png",ESPN 3 HD
