@@ -49,7 +49,13 @@ http://181.78.12.119:16123/play/ch70/index.m3u8
 http://181.78.12.119:16123/play/ch71/index.m3u8
 #EXTINF:-1 group-title="PREMIUM" tvg-logo="https://i.postimg.cc/wjNzN5qM/Logotipo-de-Telemedell-n.png",TELE MEDELLIN  (🇨🇴)
 http://181.78.12.119:16123/play/ch73/index.m3u8
-#EXTINF:-1 ,Canal Calima (Colombia) (🇨🇴)
+#EXTINF:-1 group-title="Variedades" tvg-logo="https://i.postimg.cc/mg1JQCN4/CaliTV.png",Cali TV (🇨🇴)
+https://5ab772334c39c.streamlock.net/live-calitv/calitv1/playlist.m3u8
+#EXTINF:-1 group-title="Variedades" tvg-logo="https://i.postimg.cc/mg1JQCN4/CaliTV.png",Cali TV (🇨🇴)
+http://vbox.cehis.net/live-calitv/calitv1/playlist.m3u8
+#EXTINF:-1 group-title="Variedades" tvg-logo="https://i.postimg.cc/YSvwYXdz/NATURALEZA_SALVAJE.png",NATURALEZA SALVAJE
+https://jmp2.uk/rok-098bce44be895630a3e437516fe70853.m3u8
+#EXTINF:-1 group-title="Variedades" tvg-logo="https://i.postimg.cc/GtqLfmLv/images-q-tbn-ANd9Gc-Ty-otf-E9j-Q1X4df-Kx-Z3Vi9g-SNIft-Paue-BBtw-s.jpg",Canal Calima (Colombia) (🇨🇴)
 https://corgol.com@cdn.amelbasoluciones.co:8081/calimalive/index.m3u8
 #EXTINF:-1 group-title="CULTURA" tvg-logo="https://i.postimg.cc/QxbVkf6L/Animal_Planet.png",ANIMAL PLANET HD (🇦🇷)
 http://corgol.com@38.199.4.105:9999/play/a0mg
