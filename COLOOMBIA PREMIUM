@@ -27,6 +27,8 @@ http://corgol.com@cdn1host.online:2999/xman2b/d5lxdEfHnB/1671?mode=0
 https://corgol.com@rcntv-rcnmas-1-us.plex.wurl.tv/playlist.m3u8
 #EXTINF:-1 group-title="PREMIUM" tvg-logo="https://i.postimg.cc/gJPDHwjP/RCN_BANDERA.png",RCN HD  (🇨🇴) 
 http://181.78.12.119:16123/play/ch59/index.m3u8
+#EXTINF:-1 group-title="PREMIUM" tvg-logo="https://i.postimg.cc/KzYZXFp0/ESTRELLA_NEWS_ESP.png",ESTRELLA NEWS (mx) 
+https://estrellanews-roku.amagi.tv/playlist.m3u8
 #EXTINF:-1 group-title="PREMIUM" tvg-logo="https://i.postimg.cc/pyN9d3D4/TELECARIBE.png",TELECARIBE  (🇨🇴)
 http://181.78.12.119:16123/play/ch60/index.m3u8
 #EXTINF:-1 group-title="PREMIUM" tvg-logo="https://i.postimg.cc/mZMy6KnP/SEÑAL_COLOMBIA_COL.png",SENAL COLOMBIA  (🇨🇴)
@@ -97,6 +99,10 @@ http://181.78.12.119:16123/play/ch54/index.m3u8
 http://181.78.12.119:16123/play/ch55/index.m3u8
 #EXTINF:-1 group-title="PREMIUM" tvg-logo="https://i.postimg.cc/KvhjjbVt/MI_MUSICA-POPULAR.png",MI MUSICA POPULAR
 http://181.78.12.119:16123/play/ch56/index.m3u8
+#EXTINF:-1 group-title="PREMIUM" tvg-logo="https://i.postimg.cc/d19rR3gY/SamsungTVPlus_PartnerAssets_FreeTVHits.png",FREE HITS
+https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg01024-olympusat-flash-ono/playlist.m3u8?player_height=1080&player_width=1920&min_ad_duration=6&max_ad_duration=120
+#EXTINF:-1 group-title="PREMIUM" tvg-logo="https://i.postimg.cc/BbFWQVtZ/FREE_TV_BANDA.jpg",FREE BANDA
+https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01024-olympusat-mmcfreetv-ono/playlist.m3u8?player_height=1080&player_width=1920&min_ad_duration=6&max_ad_duration=120
 #EXTINF:-1 group-title="Musica" tvg-logo="https://i.postimg.cc/K8Dn3WWJ/XITE_HITS.png",Xite Hits
 https://xite-hitsuk-lg.amagi.tv/playlist.m3u8
 #EXTINF:-1 group-title="PREMIUM" tvg-logo="https://i.postimg.cc/brHdNnmR/espn.png",ESPN HD
@@ -205,6 +211,11 @@ https://corgol.com@iptv.ixfo.com.ar:30443/c21tv/hd/c21tv/playlist.m3u8
 https://c2332ac2eff14da0934ccff4817df4a8.mediatailor.us-east-1.amazonaws.com/v1/master/0fb304b2320b25f067414d481a779b77db81760d/RakutenTV-es_RakutenViki/playlist.m3u8?ads.amznbrmid=&ads.amznregion=&ads.amznslots=&ads.app_bundle=com.rakuten.tv&ads.app_store_url=rakuten.tv&ads.app_version=&ads.brand_name=&ads.content_classification=0&ads.device_lmt=1&ads.device_make=&ads.device_model=&ads.device_type=web&ads.device_year=&ads.env=prod&ads.gam_correlator=&ads.gdpr_consent=&ads.market=es&ads.os_language=&ads.player_height=&ads.player_width=&ads.pod_type=playerpage_midroll&ads.ppid=&ads.rtv_content_id=4398&ads.rtv_content_language=spa&ads.rtvid=271859&ads.streaming_id=30f7f753-8a6e-4a2c-aac0-c76e887845dd&ads.tivo_devcountry=&ads.tivo_devmakedate=&ads.tivo_mvpd=&ads.tivo_platform=&ads.tivo_usid=&ads.tivo_uxloc=&ads.user_type=visitor&ads.wurl_channel=1065
 #EXTINF:-1 group-title="UNIVISION NOTICIAS" tvg-logo="https://i.postimg.cc/T1cv8sFj/UNIVISION_MEJOR.png",UNIVISION NOTICIAS
 https://linear-254.frequency.stream/mt/studio/254/hls/master/playlist.m3u8
+#EXTINF:-1 group-title="PREMIUM" tvg-logo="https://i.postimg.cc/wMdLGKnF/CGTN_Espanol.png",CGTN EN ESPAÑOL
+https://espanol-livews.cgtn.com/hls/LSveOGBaBw41Ea7ukkVAUdKQ220802LSTexu6xAuFH8VZNBLE1ZNEa220802cd/playlist.m3u8
+#EXTINF:-1 group-title="PREMIUM" tvg-logo="https://i.postimg.cc/Gt8YNdJG/DW_ESPAÑOL.png",DW ESPAÑOL
+https://dwamdstream104.akamaized.net/hls/live/2015530/dwstream104/index.m3u8
+
 
 
 
