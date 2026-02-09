@@ -231,6 +231,108 @@ https://appletree-mytime-samsungmexico.amagi.tv/playlist.m3u8
 https://unlimited1-us.dps.live/nettv/nettv.smil/nettv/livestream2/chunks.m3u8
 #EXTINF:-1 group-title="PREMIUM" tvg-logo="https://i.postimg.cc/dQ44DNBx/TELE_UNION_TV.png",TELE UNION
 http://server3.prostudionetwork.com:1945/teleunion/TU/playlist.m3u8
+#EXTINF:-1 group-title="REALITY" tvg-logo="https://i.postimg.cc/x1981wXY/MTV-ESP.png",MTV LATINO
+http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5cf96d351652631e36d4331f/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=1c7e1eb0-7089-11eb-842e-ed7bad763363&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=180d9c2e-993f-4454-ac06-0f43e4f8058c&userId=&serverSideAds=true
+#EXTINF:-1 group-title="DEPORTES" tvg-logo="https://i.postimg.cc/cCtVgwKK/FUTBOL-NEW-YORK-ESP.png",Futbol Network | HD | Estados Unidos
+https://59d39900ebfb8.streamlock.net/8312/8312/playlist.m3u8
+#EXTINF:-1 group-title="COLOMBIA" tvg-logo="https://i.imgur.com/jy6NXHI.png",UNO Hd
+https://mdstrm.com/live-stream-playlist/5a5e1c2568b1910913db5fe2.m3u8
+#EXTINF:-1 group-title="COLOMBIA" tvg-logo="https://i.postimg.cc/RF49W8x7/CANAL-VISION-DORADA-COL.png",CANAL VISION DORADA
+https://movil.ejeserver.com/live/visiondorada.m3u8?PlaylistM3UCL
+#EXTINF:-1 group-title="MUSICA" tvg-logo="https://i.postimg.cc/G2KjG4CM/FARRA-PLAY.png",FARRA PLAY
+http://159.203.148.226/live/farra_low.m3u8
+#EXTINF:-1 group-title="Colombia" tvg-logo="https://i.postimg.cc/7hmhMp45/CNC_MEDELLIN.png",CNC Medellín
+http://cncmedellin.ddns.net:1935/canalcnc/canalcnc_360p/playlist.m3u8
+#EXTINF:-1 group-title="COLOMBIA" tvg-logo="https://i.postimg.cc/k4RPyrjX/MAS-TELEVISION-ESP.png",Más TV
+https://video.ejeserver.com/live/teledoradahd.m3u8
+#EXTINF:-1 group-title="Undefined" tvg-logo="https://canalnets.com/wp-content/uploads/2022/05/netslogo.png",Canal Nets
+https://video.ejeserver.com/live/nets.m3u8
+#EXTINF:-1 group-title="Colombia" tvg-logo="https://i.postimg.cc/tTJbV8Mx/CANAL-INSTITUCIONAL.png",CANAL INSTITUCIONAL
+https://streaming.rtvc.gov.co/TV_CanalInstitucional_live/smil:live.smil/playlist.m3u8
+#EXTINF:-1 group-title="Costa Rica" tvg-logo="https://i.postimg.cc/9QqXr4DR/COLOSAL_TV.png",Colosal TV
+http://tv.ticosmedia.com:1935/COLOSAL/COLOSAL/playlist.m3u8
+#EXTINF:-1 group-title="Colombia" tvg-logo="https://i.postimg.cc/6ppyBrV5/SE-AL-COLOMBIA.png",SEÑAL COLOMBIA
+https://streaming.rtvc.gov.co/TV_Senal_Colombia_live/smil:live.smil/playlist.m3u8
+#EXTINF:-1 group-title="Colombia" tvg-logo="https://i.postimg.cc/7hhfnT48/LOGOS-UTALCA-UTalca-TV-10.png",UTALCA TV
+http://unlimited1-us.dps.live/campustv/campustv.smil/campustv/livestream1/chunks.m3u8
+#EXTINF:-1 group-title="MUSICA" tvg-logo="https://i.postimg.cc/wx08wXdd/TELERITMO-2021.png",TELERITMO
+http://mdstrm.com/live-stream-playlist/57b4dc126338448314449d0c.m3u8
+#EXTINF:-1 group-title="Colombia" tvg-logo="https://i.postimg.cc/bNgkctgS/CALI-TV-ESP.png",Cali TV | SD | Cali
+https://5ab772334c39c.streamlock.net/live-calitv/calitv1/playlist.m3u8
+#EXTINF:-1 group-title="News" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a0/Russia-today-logo.svg/512px-Russia-today-logo.svg.png",RT en Español 
+https://rt-esp.rttv.com/live/rtesp/playlist.m3u8
+#EXTINF:-1 group-title="COLOMBIA"tvg-logo="https://i.postimg.cc/Rh3QVV0W/RED_MAS_NOTICIAS.png",Red+ 
+https://inforedvos.lcdn.claro.net.co/Content/HLS_HLS_DIR/Live/channel(REDMASHDWEB)/master.m3u8
+#EXTINF:-1 group-title="COLOMBIA"tvg-logo="https://i.postimg.cc/J4Pzxc73/images-q-tbn-ANd9Gc-SDXL-OPRg-X2kkluy-Bb-Wxc-Fe-Cie1Dl-E2Dg-QUw-s.jpg",Avivamiento TV 
+https://s1.abntelevision.com/avivamientoabr/stream/avivamientohd/avivamientohd/playlist.m3u8
+#EXTINF:-1 group-title="COLOMBIA"tvg-logo="https://i.postimg.cc/Fsm9vL8k/5c8001a2b29bd6e02113870b26f1abaf38d428f3bf2ef15d93539b5b7730c1dd.png",Cali TV (540p) 
+http://vbox.cehis.net/live-calitv/calitv1/playlist.m3u8
+#EXTINF:-1 group-title="COLOMBIA"tvg-logo=" https://i.postimg.cc/zG66zmvQ/ALPASURFNET-LOGO-e1749077600226.png",Canal 2 Alpavisión Ibagué 
+https://stmv4.voxtvhd.com.br/alpavisionibague/alpavisionibague/playlist.m3u8
+#EXTINF:-1 group-title="COLOMBIA"tvg-logo="https://i.postimg.cc/VvkD945j/images-q-tbn-ANd9Gc-S4WDWee-Mo-lg-Eg2Tj-Kt-Jy-Q4-ju-GXDD1i-Mjj-Eg8p0dcpm-Cas-FBY8YVd2WIDRK1WTGxt0-us.jpg",Canal 2 Alpavisión Neiva 
+https://stmv1.voxtvhd.com.br/alpavision/alpavision/playlist.m3u8
+#EXTINF:-1 group-title="COLOMBIA"tvg-logo="https://i.postimg.cc/qBDLVszF/1893-800x450-FFFFFF.png",Canal 8 TV+ 
+https://movil.ejeserver.com/live/canal8tv.m3u8
+#EXTINF:-1  group-title="COLOMBIA"tvg-logo="https://i.postimg.cc/VNzMbvJN/512x512bb.jpg",Canal 14 Codazzi 
+https://eu1.servers10.com:8081/8056/index.m3u8
+#EXTINF:-1 group-title="COLOMBIA"tvg-logo="https://i.postimg.cc/wBbX8HBN/O0d278V9-400x400.jpg",Canal 55 Telemorisco TV 
+http://canal.mediaserver.com.co/live/telemorisco.m3u8
+#EXTINF:-1 group-title="COLOMBIA"tvg-logo="https://i.postimg.cc/k4RPyrjX/MAS-TELEVISION-ESP.png ",Canal Más Televisión 
+https://movil.ejeserver.com/live/teledoradahd.m3u8
+#EXTINF:-1 group-title="COLOMBIA"tvg-logo="https://i.postimg.cc/T3c8cN3F/cropped-canal-mundo-vision-aicarros-canal-Mesa-de-trabajo-1-scaled-1.png",Canal Mundo Visión 
+https://movil.ejeserver.com/live/mundovisiontv.m3u8
+#EXTINF:-1 ,Canal Telefamilia (360p) [Not 24/7]
+https://stmv2.voxtvhd.com.br/telefamilia/telefamilia/playlist.m3u8
+#EXTINF:-1group-title="COLOMBIA"tvg-logo="https://i.postimg.cc/prN4H7WN/BUM-TV.png ",Canal Visión Dorada 
+https://movil.ejeserver.com/live/visiondorada.m3u8
+#EXTINF:-1group-title="COLOMBIA"tvg-logo="https://i.postimg.cc/prN4H7WN/BUM-TV.png",Canal Visión Dorada 
+https://video.ejeserver.com/live/visiondorada.m3u8
+#EXTINF:-1 group-title="COLOMBIA"tvg-logo="https://i.postimg.cc/zXdPVdZb/CNC_SON_CORAZON-VU-TV-PLAYER.png",CNC SON CORAZON
+https://hvtraficonew.ddns.net/pastocnc8/cnc8/playlist.m3u8
+#EXTINF:-1group-title="COLOMBIA"tvg-logo=" https://i.postimg.cc/Jncpmx5h/CNC_HITS_CHANNEL.png",CNC Pasto Hits Channel 
+https://hvtraficonew.ddns.net/pastocnc1/cnc1/playlist.m3u8
+#EXTINF:-1 group-title="COLOMBIA"tvg-logo=" https://i.postimg.cc/1tKkj9bF/SENTIMIENTO_VALLENATO.png",CNC Pasto Sentimiento Vallenato 
+https://hvtraficonew.ddns.net/pastocnc4/cnc4/playlist.m3u8
+#EXTINF:-1 group-title="COLOMBIA"tvg-logo="https://i.postimg.cc/KzpRzPK3/SON-CORAZON-TV.png",CNC SON CORAZON
+https://hvtraficonew.ddns.net/pastocnc3/cnc3/playlist.m3u8
+#EXTINF:-1 group-title="COLOMBIA"tvg-logo="https://i.postimg.cc/G3xf1LXj/CNC_SON_LATINO-VU-TV-PLAYER.png",CNC Pasto Son Latino (1080p) [Geo-blocked]
+https://hvtraficonew.ddns.net/pastocnc2/cnc2/playlist.m3u8
+#EXTINF:-1 group-title="COLOMBIA"tvg-logo="https://i.postimg.cc/cJjMWtdP/SON_POPULAR.png",CNC Pasto Son Popular 
+https://hvtraficonew.ddns.net/pastocnc7/cnc7/playlist.m3u8
+#EXTINF:-1 group-title="COLOMBIA"tvg-logo=" https://i.postimg.cc/HxnVm7ht/Canal-CNC-Santander-de-Quilichao.jpg",CNC Santander de Quilichao 
+https://movil.ejeserver.com/live/cncsantander.m3u8
+#EXTINF:-1 group-title="COLOMBIA"tvg-logo="https://i.postimg.cc/Fs3b82cD/logo-cnc-blanco.png",CNC Santander de Quilichao 
+https://video.ejeserver.com/live/cncsantander.m3u8
+#EXTINF:-1 group-title="COLOMBIA"tvg-logo="https://i.postimg.cc/SNRxb1qG/Cosmovisión_1998.png",Cosmovision 
+https://videohls2.cosmovision.tv/hls/sd.m3u8
+#EXTINF:-1 group-title="COLOMBIA"tvg-logo="https://i.postimg.cc/qqyVpKb4/eduvision-logo-color-clipart.png",Eduvision 
+https://stmv3.voxtvhd.com.br/conex2/conex2/playlist.m3u8
+#EXTINF:-1 group-title="COLOMBIA"tvg-logo="https://i.postimg.cc/7Lky4Fb0/Logo-La-Hermandad-Salsera-Oficial.png",La Hermandad Salsera 
+https://streamlov.alsolnet.com/hermandadsalsera/live/playlist.m3u8
+#EXTINF:-1 group-title="COLOMBIA"tvg-logo="https://i.postimg.cc/B6zYSFNx/bg-album-art.png",MasMusica FM 
+https://movil.ejeserver.com/live/masmusica.m3u8
+#EXTINF:-1 group-title="COLOMBIA"tvg-logo="https://i.postimg.cc/B6zYSFNx/bg-album-art.png",MasMusica FM 
+https://video.ejeserver.com/live/masmusica.m3u8
+#EXTINF:-1 group-title="COLOMBIA"tvg-logo="https://i.postimg.cc/13mF5Pzd/MI_GENTE_TV.png",Mi Gente TV 
+https://byecableiptvnew3.ddns.net/ENVIVOMIGENTE/index.m3u8
+#EXTINF:-1 group-title="COLOMBIA"tvg-logo="https://i.postimg.cc/qv92vLdt/3409.jpg",Ondambiental TV 
+https://stmv4.voxtvhd.com.br/ondastereo/ondastereo/playlist.m3u8
+#EXTINF:-1 group-title="COLOMBIA"tvg-logo="https://i.postimg.cc/wTYvMGtp/REYALI-TV.png",Reyali 
+https://eu1.servers10.com:8081/8090/index.m3u8
+#EXTINF:-1 group-title="COLOMBIA"tvg-logo="https://i.postimg.cc/50jJKwXV/SURAM-TV.png",Suram TV 
+https://livetv.305streamhd.com:3111/live/suramtvlive.m3u8
+#EXTINF:-1 group-title="COLOMBIA"tvg-logo="https://i.postimg.cc/DzCPzymN/TELEISLAS.png",Teleislas 
+https://5ab772334c39c.streamlock.net/live-teleislas/teleislas/playlist.m3u8
+#EXTINF:-1 group-title="COLOMBIA"tvg-logo="https://i.postimg.cc/BnFQ3WcY/TELEPASTO-300x286.png",Telepasto
+https://hvtraficonew.ddns.net/telepasto/telepasto.stream/index.m3u8
+#EXTINF:-1 group-title="COLOMBIA"tvg-logo="https://i.postimg.cc/x8WDpC72/images-q-tbn-ANd9Gc-Rt-TQL9YU-iu9yncq8Jc-Raf-Tqs9YUxtr-ny-A-s.jpg",Tu Universo TV 
+https://5bf8041cb3fed.streamlock.net/TUUNIVERSOTV/TUUNIVERSOTV/playlist.m3u8
+#EXTINF:-1 group-title="COLOMBIA"tvg-logo="https://i.postimg.cc/x8vzxkx7/tv-penol.png",TV Peñol 
+https://stmv1.voxtvhd.com.br/tvpenol/tvpenol/playlist.m3u8
+#EXTINF:-1group-title="COLOMBIA"tvg-logo="https://i.postimg.cc/HnYYmVW6/logo-TV-SAN-JORGE-PLAY.png" ,TV San Jorge 
+https://asucap.com/livestream/asucap_envivo.m3u8
+#EXTINF:-1 group-title="COLOMBIA"tvg-logo="https://i.postimg.cc/4dsHqNLv/canales-zoom.png",CANAL ZOOM
+https://canalzoom.smoothcloud.co:3027/live/canalzoombr1live.m3u8
 
 
 
